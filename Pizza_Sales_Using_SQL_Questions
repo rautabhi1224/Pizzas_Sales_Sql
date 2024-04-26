@@ -1,0 +1,13 @@
+1) Retrive the total number of order placed 
+Calculate the total Revenue generated from the piza sales 
+Identified the heighst price pizza
+identified the most comman pizza size ordered
+List the top 5 most orderd pizza type along with thier quantities
+join the nacessary tables to find the total quantity of each pizza category 
+determine the distrubution of orders by hour of the day
+Join the relevent tables to find the category wise distrubution of pizzas. 
+Group by order by date and calculate the avarage number of pizzas order by per day 
+Determine the top 3 most ordered pizzas type based on revenue 
+Calculate the percentage contrubution of each pizza type (name or category) to total revenue timestamp 58:00
+Analyze the cumulative revenue generated over time
+Determine the top 3 most ordered pizzas tyope based on revenue for each pizza category
